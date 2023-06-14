@@ -1,0 +1,27 @@
+C:\Users\pc\Downloads\ChatApp2\Chat-Application\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\pc\Downloads\ChatApp2\Chat-Application\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\pc\Downloads\ChatApp2\Chat-Application\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\pc\Downloads\ChatApp2\Chat-Application\TCP_SERVER\bin\Debug\SimpleTcp.dll
+C:\Users\pc\Downloads\ChatApp2\Chat-Application\TCP_SERVER\bin\Debug\SimpleTcp.xml
+C:\Users\pc\Downloads\ChatApp2\Chat-Application\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\ChatApp2\Chat-Application\TCP_SERVER\obj\Debug\TCP_SERVER.Form1.resources
+C:\Users\pc\Downloads\ChatApp2\Chat-Application\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\pc\Downloads\ChatApp2\Chat-Application\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\ChatApp2\Chat-Application\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\ChatApp2\Chat-Application\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\pc\Downloads\ChatApp2\Chat-Application\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\pc\Downloads\ChatApp2\Chat-Application\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
+C:\Users\LENOVO T460S\Desktop\Lập Trình Mạng\nhantinquannet\TCP_SERVER\bin\Debug\TCP_SERVER.exe.config
+C:\Users\LENOVO T460S\Desktop\Lập Trình Mạng\nhantinquannet\TCP_SERVER\bin\Debug\TCP_SERVER.exe
+C:\Users\LENOVO T460S\Desktop\Lập Trình Mạng\nhantinquannet\TCP_SERVER\bin\Debug\TCP_SERVER.pdb
+C:\Users\LENOVO T460S\Desktop\Lập Trình Mạng\nhantinquannet\TCP_SERVER\bin\Debug\SimpleTcp.dll
+C:\Users\LENOVO T460S\Desktop\Lập Trình Mạng\nhantinquannet\TCP_SERVER\bin\Debug\SimpleTcp.xml
+C:\Users\LENOVO T460S\Desktop\Lập Trình Mạng\nhantinquannet\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.AssemblyReference.cache
+C:\Users\LENOVO T460S\Desktop\Lập Trình Mạng\nhantinquannet\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO T460S\Desktop\Lập Trình Mạng\nhantinquannet\TCP_SERVER\obj\Debug\TCP_SERVER.Sever.resources
+C:\Users\LENOVO T460S\Desktop\Lập Trình Mạng\nhantinquannet\TCP_SERVER\obj\Debug\TCP_SERVER.Properties.Resources.resources
+C:\Users\LENOVO T460S\Desktop\Lập Trình Mạng\nhantinquannet\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.GenerateResource.cache
+C:\Users\LENOVO T460S\Desktop\Lập Trình Mạng\nhantinquannet\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO T460S\Desktop\Lập Trình Mạng\nhantinquannet\TCP_SERVER\obj\Debug\TCP_SERVER.csproj.CopyComplete
+C:\Users\LENOVO T460S\Desktop\Lập Trình Mạng\nhantinquannet\TCP_SERVER\obj\Debug\TCP_SERVER.exe
+C:\Users\LENOVO T460S\Desktop\Lập Trình Mạng\nhantinquannet\TCP_SERVER\obj\Debug\TCP_SERVER.pdb
